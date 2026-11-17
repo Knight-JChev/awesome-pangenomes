@@ -18,8 +18,8 @@ A new section for microbial genomes has also been added, these tools may not sca
 - [SNP and Structural Variant callers and genotypers](#snp-and-structural-variant-callers-and-genotypers)
 - [Transcriptome analysis](#transcriptome-analysis)
 - [Methylation analysis](#methylation-analysis)
-- [Pangenome viewers -interactive](#Pangenome-viewers--interactive)
-- [Pangenome viewers -static](#Pangenome-viewers--static)
+- [Pangenome viewers -interactive](#pangenome-viewers---interactive)
+- [Pangenome viewers -static](#pangenome-viewers---static)
 - [Graph analysis and quality assessment](#graph-analysis-and-quality-assessment)
 - [Graph validation tools](#graph-validation-tools)
 - [Pangenome comparison](#pangenome-comparison)
@@ -189,7 +189,7 @@ A new section for microbial genomes has also been added, these tools may not sca
 |------|-----------|-------------|--------|
 | [Pantax](https://github.com/LuoGroup2023/PanTax) | [GitHub](https://github.com/LuoGroup2023/PanTax) | Pantax attempts to provide strain level metagenomic attribution for short or long reads (but requires the licensed Gurobi optimizer) | |
 
-# Pangenome viewers -interactive
+# Pangenome viewers - interactive
 
 | Tool | Repository | Description | Status |
 |------|-----------|-------------|--------|
@@ -217,7 +217,7 @@ A new section for microbial genomes has also been added, these tools may not sca
 | [strangepg](https://github.com/qwx9/strangepg) | [GitHub](https://github.com/qwx9/strangepg) | A modern GFA viewer and alternative to the Bandage tool | |
 | [savanache](https://forge.ird.fr/diade/savanache/savanache/) | [Forge](https://forge.ird.fr/diade/savanache/savanache/) ([preprint](https://www.biorxiv.org/content/10.64898/2026.05.05.722901v1)) | A browser based viewer appropriate for GFA files from minigraph-cactus | |
 
-# Pangenome viewers -static
+# Pangenome viewers - static
 
 | Tool | Repository | Description | Status |
 |------|-----------|-------------|--------|
